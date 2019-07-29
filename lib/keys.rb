@@ -11,8 +11,8 @@ require 'pry'
 def get_the_keys(groceries)
   groceries = {
   dairy:
-  vegetable: ,
-  meat: ,
+  vegetable:
+  meat:
   grains: 
 }
 end
