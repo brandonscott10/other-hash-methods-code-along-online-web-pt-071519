@@ -10,7 +10,7 @@ require 'pry'
 
 def get_the_keys(groceries)
   groceries = {
-  dairy: ,
+  dairy:
   vegetable: ,
   meat: ,
   grains: 
